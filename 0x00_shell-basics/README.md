@@ -1,1 +1,1 @@
-A readme in root folder
+script that prints the absolute path name of the current working directory
